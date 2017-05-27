@@ -256,7 +256,7 @@ header .intro-text .intro-heading {
   font-size: 40px;
   line-height: 50px;
   margin-bottom: 25px;
-  color:white;
+  color:white !important;
 }
 @media (min-width: 768px) {
   header .intro-text {
